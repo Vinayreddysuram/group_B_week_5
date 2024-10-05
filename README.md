@@ -2,6 +2,11 @@
 
 This is a RESTful API for managing a movie database. It provides endpoints for creating, retrieving, updating, and deleting movie entries.
 
+
+## Server running on port 8000
+
+![alt text](image.png)
+
 ## Features
 
 This API will perform the following tasks:
@@ -17,6 +22,9 @@ The API allows you to create a movie by passing the following parameters:
 - **director**: The director of the movie
 - **release_year**: The year the movie was released
 - **genre**: The genre of the movie
+
+
+
 
 ### 2. Get All Movies
 The API provides a list of all movies in the database.
